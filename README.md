@@ -6,7 +6,7 @@
 - ## [Étude de santé](https://github.com/pbrochart/oc-da/blob/master/etude-sante-publique/etude-sante-publique.ipynb)
 - ## [Optimisation données boutique](https://github.com/pbrochart/oc-da/blob/master/optimisation-donnees-boutique/optimisation-donnees-boutique.ipynb)
 
-Chaque dossier contient les sources, le notebook Python et la présentation PDF ou Power Point du projet.
+Chaque dossier contient les sources, le notebook Python et la présentation PDF du projet.
 
 ---
 
