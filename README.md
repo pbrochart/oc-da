@@ -17,3 +17,5 @@ Chaque dossier contient les sources, le notebook Python et la présentation PDF 
 - la modification des répertoires d'importation des données brutes
 
 L'arborescence contient également les sources PowerBI, KNIME et SQL
+
+Voir mon CV Data Analyst en ligne: [CV_Tableau](https://public.tableau.com/app/profile/pascal.brochart/viz/CV_Tableau_17318644175220/Tableaudebord)
